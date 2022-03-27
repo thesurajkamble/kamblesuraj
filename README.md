@@ -4,10 +4,10 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thesurajkamble" alt="thesurajkamble" /></a> </p>
 
 # 🧐 About
-- 🏄‍ Android Developer who loves building amazing Applications.
+- 🏄‍ Android Developer | Freelancer
+-  Love to Solve real world problems.
 - 👨‍💻 I'm Android Intern at [Koo India](https://www.kooapp.com/).
-- 🤔 Looking some help with data structures and algorithms.
-- 🌱 I love to learn new things and ready to help others.
+
 
 <p align="left"> <a href="https://twitter.com/thesurajkamble" target="blank"><img src="https://img.shields.io/twitter/follow/thesurajkamble?logo=twitter&style=for-the-badge" alt="thesurajkamble" /></a> </p>
 

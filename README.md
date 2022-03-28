@@ -4,10 +4,15 @@
 
 <img align="right" alt="GIF" src="https://github.com/dheerajkotwani/dheerajkotwani/blob/master/web_character_dheeraj.gif" width="400px" />
 
-# 🧐 About
-- 🏄‍ Android Developer | Freelancer | 
--  Love to Solve real world problems.
-- 👨‍💻 I'm Android Intern at [Koo India](https://www.kooapp.com/).
+- 🏄‍ Software Engineer | Android Developer | 
+- 👨‍💻 I'm Android Intern at [KOO INDIA](https://www.kooapp.com/).
+- 💻 All of my projects are available [here](https://github.com/dheerajkotwani).
+- ⚡ In my free time, you'll find me watching some series and learning something about fighter aircrafts.
+- 📫 How to reach me: mail me at [thesurajkamble@gmail.com](mailto:thesurajkamble@gmail.com)
+- 🧙‍♂️ Currently working on Advance Android skills.
+- 💬 Ask me about anything and everything! 
+- 🎨 Fun Fact: Being hydrated increases my productivity.
+
 
 ## ⚙ Tech Stack
 <p align="center">

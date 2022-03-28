@@ -10,7 +10,7 @@
 - 📫 How to reach me: mail me at [thesurajkamble@gmail.com](mailto:thesurajkamble@gmail.com)
 - 🧙‍♂️ Currently working on Advance Android skills.
 - 💬 Ask me about anything and everything! 
-- 🎨 Fun Fact: Being hydrated increases my productivity.
+- 🎨 Fun Fact: Variable name and WIFI name matter more than anything. lol
 
 
 ## ⚙ Tech Stack

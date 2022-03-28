@@ -26,12 +26,13 @@
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/figma.svg" alt="Android" width="40" height="40"/> 
 </p>
 
-<p align="left"> <a href="https://twitter.com/thesurajkamble" target="blank"><img src="https://img.shields.io/twitter/follow/thesurajkamble?logo=twitter&style=for-the-badge" alt="thesurajkamble" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/thesurajkamble" target="blank"><img src="https://img.shields.io/twitter/follow/thesurajkamble?logo=twitter&style=for-the-badge" alt="thesurajkamble" /></a> </p> -->
 
 
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thesurajkamble&show_icons=true&locale=en&layout=compact" alt="thesurajkamble" /></p> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thesurajkamble&show_icons=true&locale=en" alt="thesurajkamble" /></p>
+|<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thesurajkamble&show_icons=true&locale=en" alt="thesurajkamble" /></p>|
+|---|---|
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thesurajkamble&" alt="thesurajkamble" /></p>

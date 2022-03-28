@@ -1,10 +1,10 @@
 <h1 align="center">I'm <a href="https://www.linkedin.com/in/suraj-kamble-6a3509145/">  Suraj Kamble </a>👨‍💻 </h1>
 <h3 align="center"> Software Engineer | Android Developer | Military Aviation Enthusiast</h3>
 <h4>Hey! I'm Suraj Kamble I'm Currently Studying Computer Science at RV College Of Engineering Bangalore & Software Engineer Intern at Koo App India </h4>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thesurajkamble" alt="thesurajkamble" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thesurajkamble" alt="thesurajkamble" /></a> </p>
 
 # 🧐 About
-- 🏄‍ Android Developer | Freelancer
+- 🏄‍ Android Developer | Freelancer | 
 -  Love to Solve real world problems.
 - 👨‍💻 I'm Android Intern at [Koo India](https://www.kooapp.com/).
 

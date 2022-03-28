@@ -6,7 +6,6 @@
 
 - 🏄‍ Software Engineer | Android Developer | 
 - 👨‍💻 I'm Android Intern at [KOO INDIA](https://www.kooapp.com/).
-- 💻 All of my projects are available [here](https://github.com/dheerajkotwani).
 - ⚡ In my free time, you'll find me watching some series and learning something about fighter aircrafts.
 - 📫 How to reach me: mail me at [thesurajkamble@gmail.com](mailto:thesurajkamble@gmail.com)
 - 🧙‍♂️ Currently working on Advance Android skills.

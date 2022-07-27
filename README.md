@@ -9,7 +9,7 @@
 - ⚡ You will find me Geeking out on Fighters Aircrafts, Drones and Radio stuff in my free time. 
 - 📫 How to reach me: mail me at [thesurajkamble@gmail.com](mailto:thesurajkamble@gmail.com)
 - 🧙‍♂️ Currently working on Advance Android skills.
-- 🎨 Fun Fact: Variable name and WIFI name matter more than anything. lol
+- 🎨 Love talking about Android, System Design and obviously Aircrafts
 
 
 ## ⚙ Tech Stack

@@ -5,7 +5,7 @@
 <img align="right" alt="GIF" src="https://github.com/thesurajkamble/thesurajkamble/blob/main/charactor.gif" width="350px" />
 
 - 🏄‍ Software Engineer | Android Developer | 
-- 👨‍💻 I'm Android Intern at [KOO INDIA](https://www.kooapp.com/).
+- 👨‍💻 Currently Building Koo 
 - ⚡ You will find me Geeking out on Fighters Aircrafts, Drones and Radio stuff in my free time. 
 - 📫 How to reach me: mail me at [thesurajkamble@gmail.com](mailto:thesurajkamble@gmail.com)
 - 🧙‍♂️ Currently working on Advance Android skills.

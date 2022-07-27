@@ -1,6 +1,5 @@
 <h1 align="center">I'm <a href="https://www.linkedin.com/in/suraj-kamble-6a3509145/">  Suraj Kamble </a>👨‍💻 </h1>
 <h3 align="center"> Software Engineer | Android Developer | Military Aviation Enthusiast</h3>
-<h4>Hey! I'm Suraj Kamble I'm Currently Studying Computer Science at RV College Of Engineering Bangalore & Software Engineer Intern at Koo App India </h4>
 
 <img align="right" alt="GIF" src="https://github.com/thesurajkamble/thesurajkamble/blob/main/charactor.gif" width="350px" />
 

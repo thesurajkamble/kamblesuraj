@@ -6,10 +6,9 @@
 
 - 🏄‍ Software Engineer | Android Developer | 
 - 👨‍💻 I'm Android Intern at [KOO INDIA](https://www.kooapp.com/).
-- ⚡ In my free time, you'll find me watching some series and learning something about fighter aircrafts.
+- ⚡ You will find me Geeking out on Fighters Aircrafts, Drones and Radio stuff in my free time. 
 - 📫 How to reach me: mail me at [thesurajkamble@gmail.com](mailto:thesurajkamble@gmail.com)
 - 🧙‍♂️ Currently working on Advance Android skills.
-- 💬 Ask me about anything and everything! 
 - 🎨 Fun Fact: Variable name and WIFI name matter more than anything. lol
 
 

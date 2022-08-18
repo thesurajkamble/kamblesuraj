@@ -3,7 +3,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/thesurajkamble/thesurajkamble/blob/main/charactor.gif" width="350px" />
 
-- 🏄‍ Software Engineer | Android Developer | 
+- " Learning something Everyday"
 - 👨‍💻 Currently Building Koo 
 - ⚡ You will find me Geeking out on Fighter Aircrafts, Drones and Radio stuff in my free time. 
 - 📫 How to reach me: mail me at [thesurajkamble@gmail.com](mailto:thesurajkamble@gmail.com)

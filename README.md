@@ -1,6 +1,4 @@
 # 💫 About Me:
-Hey, I'm a Programmer who loves to build products and tinker with open source code. 
-im an Aviation enthusiast, i love spotting aircrafts in my free time and reading about aircrafts.
 
 
 ## 🌐 Socials:
